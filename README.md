@@ -1,2 +1,2 @@
 # Krish's crumpling ball project
-MatterJSBoilerPlate
+crumpling ball
